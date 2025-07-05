@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\LTM\Olympia Web Service\OlympiaWebService\obj\Release\net8.0\win-x64\PubTmp\Out\" />
+  <dbfullsql path="D:\LTM\Olympia Web Service\OlympiaWebService\obj\Release\net8.0\win-x64\PubTmp\EFSQLScripts\OlympiaWebService.Data.DataContext.sql" />
+</sitemanifest>

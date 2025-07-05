@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-05-04T02:55:50.1197497Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-05-06T02:43:15.6419544Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "OlympiaWebService"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "83875c31-4de0-474f-bdcb-b1bae4770f4b"
+    }
+  }
+}
